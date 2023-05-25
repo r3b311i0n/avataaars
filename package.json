@@ -14,9 +14,6 @@
   "repository": "git@github.com:fangpenlin/avataaars.git",
   "author": "Fang-Pen Lin <hello@fangpenlin.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "react": "^17.0.0"
-  },
   "devDependencies": {
     "@types/react": "^17.0.0",
     "import-sort-style-renke": "^4.2.0",
